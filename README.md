@@ -50,11 +50,6 @@ A simple web-based Tic-Tac-Toe game built with HTML, CSS, and JavaScript. This p
      xdg-open index.html
      ```
 
----
-
-## 🖼️ Screenshot
-
-![Game Screenshot](screenshot.png) <!-- Replace this path if needed -->
 
 ---
 
@@ -70,9 +65,3 @@ A simple web-based Tic-Tac-Toe game built with HTML, CSS, and JavaScript. This p
 
 **Sakshi**
 🔗 [GitHub Profile](https://github.com/Sakshi250904)
-
-```
-
----
-
-
